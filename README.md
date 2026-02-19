@@ -4,17 +4,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+Full+Stack+Developer;MERN+Stack+Developer;Python+Enthusiast;Building+Intelligent+Web+Systems" />
 </p>
 
----
-
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science Engineering Student  
 - 💡 Focused on AI-integrated Full Stack Development  
-- 🌱 Currently strengthening Python, Backend Systems & DSA  
-- 🔍 Interested in scalable web architectures and intelligent automation  
+- 🌱 Strengthening Python, Backend Systems & DSA  
+- 🔍 Interested in scalable web architectures and automation  
 - 📍 Bengaluru, India  
-
----
 
 ## 🚀 Tech Stack
 
@@ -31,8 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
 </p>
 
----
-
 ## 🧠 Core Competencies
 
 - REST API Development  
@@ -42,13 +36,11 @@
 - Basic Machine Learning Implementation  
 - API Integration & Automation  
 
----
-
 ## 🚀 Featured Projects
 
 ### 🔹 AI Smart Traffic Management System
 - ML-based congestion detection  
-- Traffic signal optimization logic  
+- Signal optimization logic  
 - Python + Computer Vision  
 
 ### 🔹 MERN Full Stack Web Application
@@ -57,19 +49,11 @@
 - REST APIs  
 - MongoDB integration  
 
-### 🔹 AI-Based Automation Projects
-- API-driven intelligent workflows  
-- Backend logic automation  
-
----
-
 ## 📈 Currently Working On
 
 - Advanced DSA  
 - System Design Fundamentals  
 - AI Integration in Web Applications  
-
----
 
 ## 📊 GitHub Stats
 
@@ -78,13 +62,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=srujangowda756&theme=github-dark" />
 </p>
 
----
-
 ## 🤝 Connect With Me
 
 - LinkedIn: linkedin/in/srujan756
 - Email: srujangowda756@gmail.com
-
----
-
-⭐️ Consistently building. Continuously improving.
