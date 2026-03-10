@@ -38,7 +38,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 AI Smart Traffic Management System
+### 🔹 AI System
 - ML-based congestion detection  
 - Signal optimization logic  
 - Python + Computer Vision  
