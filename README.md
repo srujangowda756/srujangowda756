@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6441A5&center=true&vCenter=true&multiline=false&width=600&lines=Building+Intelligent+Web+Systems+%F0%9F%A7%A0;MERN+Stack+%2B+AI+Integration+%F0%9F%9A%80;Python+%7C+Computer+Vision+%7C+REST+APIs+%F0%9F%94%A5;Open+to+Opportunities+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6441A5&center=true&vCenter=true&width=620&lines=Building+Intelligent+Web+Systems+%F0%9F%A7%A0;MERN+Stack+%2B+AI+Integration+%F0%9F%9A%80;TypeScript+%7C+Python+%7C+React+%7C+Node.js+%F0%9F%94%A5;Open+to+Opportunities+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,12 +21,13 @@
 
 > *"I don't just build apps — I build systems that think."*
 
-I'm a **Computer Science Engineering student** passionate about the intersection of **Artificial Intelligence and Full Stack Web Development**. I love architecting scalable web systems and integrating ML models into real-world applications.
+I'm a **Computer Science Engineering student** passionate about the intersection of **Artificial Intelligence and Full Stack Web Development**. I love architecting scalable web systems and integrating intelligent logic into real-world products.
 
-- 🎓 Pursuing **Computer Science Engineering**
+- 🎓 Pursuing **Computer Science Engineering** — Bengaluru, India
 - 🔭 Currently building **AI-powered web applications**
 - 🌱 Deepening expertise in **DSA, System Design & ML pipelines**
-- ⚡ Fun fact: I think of backend systems the same way I think about neural networks — it's all about the right connections
+- 💬 Ask me about **MERN stack, REST APIs, or AI integration**
+- ⚡ Fun fact: I think of backend systems like neural networks — it's all about the right connections
 
 ---
 
@@ -35,6 +36,7 @@ I'm a **Computer Science Engineering student** passionate about the intersection
 <div align="center">
 
 ### 🌐 Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -65,34 +67,76 @@ I'm a **Computer Science Engineering student** passionate about the intersection
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI Traffic Management System
-> *ML meets urban infrastructure*
+### 🎤 Mock Interviewer
+> *AI-powered interview prep platform*
 
-An intelligent traffic signal optimizer using **computer vision** to detect congestion in real-time and dynamically adjust signal timing.
+A smart mock interview system that simulates real technical interviews, evaluates responses, and gives actionable feedback.
 
 **Key Features:**
-- 📷 Real-time video feed processing with OpenCV
-- 🧠 ML-based vehicle density classification
-- 🚦 Adaptive signal optimization algorithm
-- 📊 Live congestion heatmap visualization
+- 🤖 AI-generated domain-specific questions
+- 📝 Real-time answer evaluation & scoring
+- 🔄 Multiple interview modes (DSA, System Design, HR)
+- 📊 Performance analytics & improvement tips
 
-**Tech:** `Python` `OpenCV` `scikit-learn` `NumPy`
+**Tech:** `TypeScript` `React` `Node.js` `AI APIs`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/srujangowda756/mock-interviewer)
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 MERN Full Stack Web Application
-> *Scalable, secure, production-ready*
+### 💬 ChatBot
+> *Conversational AI interface*
 
-A fully-featured web application with robust authentication, complete CRUD functionality, and RESTful API architecture.
+An intelligent AI chatbot with a clean web interface, capable of handling natural language conversations in real time.
 
 **Key Features:**
-- 🔐 JWT-based auth with protected routes
-- 📦 RESTful API with Express middleware
-- 🗃️ MongoDB with optimized schema design
-- ⚛️ Dynamic React frontend with state management
+- 🧠 Natural language understanding
+- 💡 Context-aware conversation flow
+- 🌐 Lightweight HTML/JS frontend
+- ⚡ Fast response rendering
 
-**Tech:** `MongoDB` `Express.js` `React` `Node.js` `JWT`
+**Tech:** `HTML` `CSS` `JavaScript` `AI Integration`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/srujangowda756/ChatBot)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 Job Portal
+> *Full-stack job discovery platform*
+
+A feature-rich job portal where employers post listings and candidates search, filter, and apply seamlessly.
+
+**Key Features:**
+- 🔍 Advanced job search & filtering
+- 📋 Application tracking system
+- 🔐 Role-based authentication
+- 📱 Fully responsive UI
+
+**Tech:** `JavaScript` `Node.js` `Express` `MongoDB`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/srujangowda756/job-portal)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 Book My Show Clone
+> *Full-stack event booking system*
+
+A BookMyShow-inspired platform with real-time seat selection, event listings, and booking management.
+
+**Key Features:**
+- 🎭 Event & movie listing management
+- 🪑 Interactive seat selection UI
+- 🎟️ Booking confirmation & history
+- 🔒 Secure user authentication
+
+**Tech:** `TypeScript` `React` `Node.js` `MongoDB`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/srujangowda756/Book-My-Show)
 
 </td>
 </tr>
@@ -107,7 +151,7 @@ A fully-featured web application with robust authentication, complete CRUD funct
 │                    SKILL OVERVIEW                        │
 ├──────────────────────────┬──────────────────────────────┤
 │  Backend Development     │  REST API Design & Dev       │
-│  Authentication Systems  │  JWT / OAuth Flows           │
+│  Authentication Systems  │  JWT / Session Auth Flows    │
 │  Database Architecture   │  MongoDB Schema Design       │
 │  Server Architecture     │  MVC / Layered Patterns      │
 │  ML Implementation       │  Model Integration & Tuning  │
@@ -124,7 +168,7 @@ A fully-featured web application with robust authentication, complete CRUD funct
 | 🧩 Advanced DSA | Trees, Graphs, DP, Heaps | 🔄 In Progress |
 | 🏛️ System Design | Scalability, Load Balancing, Caching | 🔄 In Progress |
 | 🤖 AI in Web Apps | LLM APIs, Embeddings, RAG Systems | 🔄 In Progress |
-| ☁️ Cloud Basics | AWS / GCP fundamentals | 🔜 Up Next |
+| ☁️ Cloud Basics | AWS / GCP Fundamentals | 🔜 Up Next |
 
 ---
 
@@ -138,6 +182,10 @@ A fully-featured web application with robust authentication, complete CRUD funct
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=srujangowda756&theme=tokyonight&hide_border=true&background=0D1117&stroke=6441A5&ring=6441A5&fire=FF6B6B&currStreakLabel=6441A5" />
+
+<br/>
+
+> 💡 **Tip:** GitHub's contribution graph (93 contributions) is the most accurate — third-party streak widgets count from account creation date and may show a lower number.
 
 <br/>
 
@@ -161,7 +209,7 @@ A fully-featured web application with robust authentication, complete CRUD funct
 
 <div align="center">
 
-I'm always open to discussing **new opportunities**, **collaborations**, or just geeking out about tech.
+I'm always open to **new opportunities**, **collaborations**, or just geeking out about tech.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/srujan756)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail)](mailto:srujangowda756@gmail.com)
