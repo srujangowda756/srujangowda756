@@ -69,5 +69,5 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true)
 ![Contributions](https://img.shields.io/badge/Contributions-GitHub-blue)
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)
+![GitHub Streak](https://streak-stats.demolab.com?user=srujangowda756)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=srujangowda756)
