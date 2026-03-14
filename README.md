@@ -8,7 +8,7 @@
 
 - 🎓 Computer Science Engineering Student  
 - 💡 Focused on AI-integrated Full Stack Development  
-- 🌱 Strengthening Python, Backend Systems & DSA  
+- 🌱 Strengthening Python, JS, Backend Systems & DSA  
 - 🔍 Interested in scalable web architectures and automation  
 - 📍 Bengaluru, India  
 
