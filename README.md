@@ -106,15 +106,6 @@ fun_fact   : I treat backend like a neural net —
 
 </div>
 
----
-
-## 🏆 Trophy Shelf
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=srujangowda756&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=6)
-
-</div>
 
 ---
 
