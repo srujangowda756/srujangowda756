@@ -41,7 +41,7 @@
 ###
 
 <div align="left">
-  <a href="https://github.com/srujangowda756/srujangowda756" target="_blank">
+  <a href="https://github.com/srujangowda756" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
   </a>
   <a href="https://www.linkedin.com/in/srujan756/" target="_blank">
